@@ -1,6 +1,6 @@
 # Aman: Prediction of a drug molecule properties
 
-## I - Introduction
+I - Introduction
 
 The objective of this project is to develop multiple deep learning models to predict one or more basic properties of a molecule using its fingerprint features.
 In addiction:
