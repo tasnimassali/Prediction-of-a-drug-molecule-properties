@@ -11,7 +11,7 @@ In addiction:
 
 ### Project Structure
 
-This project is organized as follow, also you can find training, evalute and test results on the "Data understanding.ipynb" notebook.
+This project is organized as follow:
 
 ```
 .
