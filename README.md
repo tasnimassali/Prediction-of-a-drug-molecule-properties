@@ -15,7 +15,7 @@ This project is organized as follow, also you can find training, evalute and tes
 
 ```
 .
-├── aman.ipynb
+├── Data understanding.ipynb
 ├── Dockerfile
 ├── requirements.txt
 ├── README.md
