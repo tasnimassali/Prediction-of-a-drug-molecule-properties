@@ -7,7 +7,7 @@ In addiction:
 
 - A Flask Api to make predictions;
 - The application, called **hub**, is installed;
-- Then packaged in a Docker to facilitate the deployment of your model.
+- Then packaged in a Docker to facilitate the deployment.
 
 ### Project Structure
 
