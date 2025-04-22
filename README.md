@@ -91,8 +91,9 @@ accuracy	f1-score	Confusion Matrix
 0.729	0.589463	[[73, 103], [168, 656]]
 ```
 
-### Model 2: Sequential Deep Learning models bases on 'smile' sequences as input : CNN, model2, GRU 
+### Model 2: Sequential Deep Learning models bases on 'smile' sequences as input : GRU 
 These models take the *smile string* character as input and predict the *P1* property.In this work, a Deep Learning model that automatically learns features from `smiles` to predict chemical properties, without the need for additional explicit feature engineering.
+The choice of working with GRU was based on training diffrent model GRU, LSTM and CNN and after thetrain i found that with GRU i get better results and i can improve its performance if i have more time.
 
 
 
