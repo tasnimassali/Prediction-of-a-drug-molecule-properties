@@ -13,7 +13,7 @@ MODEL_OUTPUT = {'single': 'hub/models/model_pred_single.bin',
 
 # Select DL model :
 ## model1 : A Feed Forward Neural Network. This model takes the extracted features of a molecule as input and predict the P1 property  of the dataset_single.csv dataset
-## model2 : LSTM model takes the smile string character as input and predict the P1 property  of the dataset_single.csv dataset
+## model2 : GRU model takes the smile string character as input and predict the P1 property  of the dataset_single.csv dataset
 ## model1_9 : Extension of Model1to predict the P1, P2,...P9 properties of the dataset_multi.csv dataset
 
 MODEL_TYPE = 'model2'
