@@ -179,9 +179,6 @@ def predict_from_file(path_X_test):
  ```python
  python hub/src/flask_api.py
  ```
-Copy the link from terminal (http://x.x.x.x:8000/); Choose you test data and open the browser and type:
- ```python
-http://x.x.x.x:8000/predict_from_file/hub/data/dataset_single_test.csv
  ```
 
 ## Packaging
@@ -261,15 +258,4 @@ RUN conda install -c conda-forge rdkit
 # Container start up command
 CMD python flask_api.py
 ```
-To build a docker image, use the command from the root of the project:
-```python
-docker build . -t hub
-```
-To run docker:
-```python
-docker run -p 8000:8000 money_api
-```
-Browser run : use the link from terminal or my machine IP:
-```python
-http://x.x.x.x:8000/apidocs
 ```
