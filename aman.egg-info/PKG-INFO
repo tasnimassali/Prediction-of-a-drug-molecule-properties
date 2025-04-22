@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: aman
+Version: 1.0.0
+Summary: The objective of this application uses a deep learning model to predict basic properties of a molecule using its fingerprint features and smiles strings.
+Author: Tasnim Assali
+Author-email: tasnimassali20@gmail.com

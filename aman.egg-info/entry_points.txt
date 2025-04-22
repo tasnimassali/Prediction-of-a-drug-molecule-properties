@@ -1,0 +1,2 @@
+[console_scripts]
+aman = hub.cli:main

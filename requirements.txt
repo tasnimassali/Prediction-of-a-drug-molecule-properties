@@ -1,0 +1,16 @@
+flask
+pip
+numpy
+pandas
+matplotlib
+scikit-learn
+click
+tensorflow==2.12.0
+keras
+gunicorn
+flasgger
+
+
+
+
+
