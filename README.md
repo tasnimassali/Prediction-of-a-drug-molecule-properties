@@ -42,7 +42,7 @@ This project is organized as follow, also you can find training, evalute and tes
 
 ## Exploratory Data Analysis
 
-start by creating statistics and visualizations on my dataset to identify good columns for modeling, potential data quality issues and anticipate potential feature transformations necessary...
+start by creating statistics and visualizations on my dataset to identify good columns for modeling, potential data quality issues and anticipate potential feature transformations necessary. check the file named "Data understanding.ipynb"
 
 First import data from `hub\data\dataset_single.csv`.
 
