@@ -1,7 +1,7 @@
 FROM continuumio/miniconda3
 
 # Metadata
-LABEL maintainer="you@example.com"
+LABEL Author, Tasnim assali
 
 # Set working directory
 WORKDIR /app
