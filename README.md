@@ -144,7 +144,7 @@ wget --quiet https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.
 Miniconda3-latest-Linux-x86_64.sh -b -p ~/miniconda
 export PATH=~/miniconda/bin:$PATH
 conda update -n base conda
-conda create -y --name hub python=3.6
+conda create -y --name hub python=3.9
 conda activate hub
 pip install -r requirements.txt
 conda install -c conda-forge rdkit
